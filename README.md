@@ -2,10 +2,12 @@
 My Portfolio
 
 # About Me
-Hello! I am Ananya Ghosh from India. I am a graduate student at Carnegie Mellon University, studying Information Systems Management with concentration on Business Intelligence and Data Analytics. I have worked as a software developer at SAP Labs for almost 3 years. I love to travel and meet new people. My career aspirations are to work as a Data Analyst or Data Engineer in a company which addresses social issues and make people's lives smoother and simpler.
+Hello! I am Ananya Ghosh from India. I am a graduate student at Carnegie Mellon University, studying Information Systems Management with concentration on Business Intelligence and Data Analytics. I have worked as a software developer at SAP Labs for almost 3 years. My work was primarily in the e-commerce domain. My career aspirations are to work as a Data Analyst or Data Engineer in a company that addresses social issues. 
+
+My hobbies include travelling and discovering my hidden potential. I love to meet new people and listen to their stories.
 
 # What I hope to learn
-I believe that the job that I am aspiring for will need me to make lots of presentations. I want to learn to make boring data look appealing. Addressing people from different background is not easy and to make my idea sound convincing is even more difficult. I hope that the tools which I will be learning in this course will make my presentations appeal to the general public and help me get across my point easily.
+They say "A picture is worth a thousand words". Similarly when complex ideas are expressed in pictorial form, even the most inexperienced person can understand the context. I believe that there are many stories hidden in data which are waiting to be uncovered. I want to learn to find such stories and narrate them effectively using tools that I will learn in this class. 
 
 # Portfolio
 Coming soon!
