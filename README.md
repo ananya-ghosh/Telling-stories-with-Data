@@ -34,6 +34,9 @@ Critiques received from friends:
 
 Final design:  
 I ended up using one form of bar chart at the end but the new design highlights what the chart title reads. Republicans prefer Fox news which others don't.
+In my chart:
+1.Republican is highted to put more emphasis on Republicans. 
+2.There is consistency in the labeling. In the original graph only one x-axis label had a unit (%) mentioned. 
   
 
 <iframe title="Fox News Favored by Republicans " aria-label="Stacked Bars" id="datawrapper-chart-Uyvgn" src="//datawrapper.dwcdn.net/Uyvgn/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="195"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
