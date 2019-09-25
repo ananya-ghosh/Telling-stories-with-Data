@@ -36,16 +36,15 @@ At the end of this project, I am hopeful I will be able to find out about the ta
 
 
 Here are few of the visualizations which I aim to establish:
-
-
-
+## Top prefered Categories in the 100 top rated restaurants in Pittsburgh
 ![<img src="./images/image_1.jpeg" width="50%">](https://ananya-ghosh.github.io/Telling-stories-with-Data/images/image_1.jpeg)
 
+## Whom to trust? 
+### Ratings of restaurant differ from app to app
 ![<img src="./images/image_2.jpeg" width="50%">](https://ananya-ghosh.github.io/Telling-stories-with-Data/images/image_2.jpeg)
 
-![Project_Outline](https://raw.githubusercontent.com/sagnikrana/Portfolio-Telling-Stories-Using-Data/master/Final%20Project/Images/0001.jpg)
-
-I am going to use shorthand to narrate my story. I would like to use Tableau to make the visualizations.
+I am going to use shorthand to narrate my story. 
+I would like to use Tableau to make the visualizations.
 
 Here are few of the data sources: <br>
 I used Beautiful Soup library in Python to scrape data from all the four websites.
