@@ -52,7 +52,7 @@ Zomato Link: https://www.zomato.com/pittsburgh<br>
 TripAdvisor Link: https://www.tripadvisor.com/Restaurants-g53449-Pittsburgh_Pennsylvania.html#EATERY_OVERVIEW_BOX<br>
 Dazhondingpian Link: http://www.dianping.com/pittsburgh/ch0<br>
 
-Excel sheet containing all the scraped data can be found here[https://ananya-ghosh.github.io/Telling-stories-with-Data/scraped data/ScrapedData.xlsx]:
+Excel sheet containing all the scraped data can be found [here] (https://ananya-ghosh.github.io/Telling-stories-with-Data/scraped data/ScrapedData.xlsx)
 
 
 NOTE: This project is strictly for academic purpose
