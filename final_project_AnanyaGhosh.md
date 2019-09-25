@@ -39,7 +39,7 @@ Here are few of the visualizations which I aim to establish:
 
 
 
-
+[<img src="./images/image_1.jpeg" width="50%">](https://ananya-ghosh.github.io/Telling-stories-with-Data/images/image_1.jpeg)
 
 ![Project_Outline](https://raw.githubusercontent.com/sagnikrana/Portfolio-Telling-Stories-Using-Data/master/Final%20Project/Images/0001.jpg)
 
