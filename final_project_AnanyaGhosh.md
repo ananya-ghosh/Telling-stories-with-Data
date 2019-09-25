@@ -25,12 +25,13 @@ Tripadvisor_review: 	        customer’s comments on food experience onTripadvi
 Dazhongdianping_rating: 	    restaurant rating on Dazhongdianping<br>
 
 * Correlations:<br>
-    I will compare the ratings from different websites on the following parameters:<br>
-        - Rating of Chinese food <br>
-        - Rating of Indian food <br>
-        - Rating of American / Mexican food <br>
-        - Rating of restaurants serving Ethiopian food, Italian food or some cuisine other than American, Chinese and Indian<br>
-
+    I will make the following comparisons:<br>
+        - Most popular cuisine types in top 100 restaurants <br>
+        - How the ratings of Indian restaurants vary in all four websites <br>
+        - How the ratings of Chinese restaurants vary in all four websites <br>
+        - How the ratings of American restaurants vary in all four websites <br>
+        - How the ratings of other restaurants (like Ethipian, Italian etc) vary in all four websites <br>
+        
 At the end of this project, I am hopeful I will be able to find out about the taste and preferences of different ethnic groups and how they are differet from each other. I will also be able to create awareness that people from different places have differernt tastes, so next time someone is out with an international crowd, maybe they'd like to think more deeply about the food choices!
 
 
@@ -42,10 +43,16 @@ Here are few of the visualizations which I aim to establish:
 
 ![Project_Outline](https://raw.githubusercontent.com/sagnikrana/Portfolio-Telling-Stories-Using-Data/master/Final%20Project/Images/0001.jpg)
 
+I am going to use shorthand to narrate my story. I would like to use Tableau to make the visualizations.
+
 Here are few of the data sources: <br>
-Yelp Link: https://www.yelp.com/<br>
+I used Beautiful Soup library in Python to scrape data from all the four websites.
+Yelp Link: https://www.yelp.com/search?find_desc=Restaurants&find_loc=Pittsburgh%2C%20PA&start=0<br>
 Zomato Link: https://www.zomato.com/pittsburgh<br>
 TripAdvisor Link: https://www.tripadvisor.com/Restaurants-g53449-Pittsburgh_Pennsylvania.html#EATERY_OVERVIEW_BOX<br>
-Dazhpndingpian Link: http://www.dianping.com/pittsburgh/ch0<br>
+Dazhondingpian Link: http://www.dianping.com/pittsburgh/ch0<br>
+
+Excel sheet containing all the scraped data can be found here[https://ananya-ghosh.github.io/Telling-stories-with-Data/scraped data/ScrapedData.xlsx]:
+
 
 NOTE: This project is strictly for academic purpose
