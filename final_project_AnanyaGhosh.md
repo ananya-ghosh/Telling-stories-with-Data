@@ -47,13 +47,13 @@ I am going to use shorthand to narrate my story.
 I would like to use Tableau to make the visualizations.
 
 Here are few of the data sources: <br>
-I used Beautiful Soup library in Python to scrape data from all the four websites.
-Yelp Link: https://www.yelp.com/search?find_desc=Restaurants&find_loc=Pittsburgh%2C%20PA&start=0<br>
-Zomato Link: https://www.zomato.com/pittsburgh<br>
-TripAdvisor Link: https://www.tripadvisor.com/Restaurants-g53449-Pittsburgh_Pennsylvania.html#EATERY_OVERVIEW_BOX<br>
-Dazhondingpian Link: http://www.dianping.com/pittsburgh/ch0<br>
+I used Beautiful Soup library in Python to scrape data from all the four websites.<br>
+[Yelp Link: ](https://www.yelp.com/search?find_desc=Restaurants&find_loc=Pittsburgh%2C%20PA&start=0)<br>
+[Zomato Link: ](https://www.zomato.com/pittsburgh)<br>
+[TripAdvisor Link: ](https://www.tripadvisor.com/Restaurants-g53449-Pittsburgh_Pennsylvania.html#EATERY_OVERVIEW_BOX)<br>
+[Dazhondingpian Link: ](http://www.dianping.com/pittsburgh/ch0)<br>
 
-Excel sheet containing all the scraped data can be found [here] (https://ananya-ghosh.github.io/Telling-stories-with-Data/ScrapedData/ScrapedData.xlsx)
+Excel sheet containing all the scraped data can be found [here](https://ananya-ghosh.github.io/Telling-stories-with-Data/ScrapedData/ScrapedData.xlsx)
 
 
 NOTE: This project is strictly for academic purpose
