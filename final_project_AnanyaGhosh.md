@@ -7,22 +7,22 @@ When I first came to Pittsburgh, eating out was a nightmare. I had ample of apps
 I have selected four websites - Yelp, TripAdvisor, Zomato and Dazhongdingpian - whose customer base varies from American to Indian to Chinese.
 
 I have collected the following data about restaurants in Pittsburgh by scraping those 4 websites:
-Name: 	                        name of the restaurant</br>
-Address: 	                    street address</br>
-Area: 	                        neighbourhood</br>
-Phone: 	                        contact number</br>
-Price : 	                    price range $-$$$$</br>
-Category:  	                    Italian,American...</br>
-Yelp_rating: 	                restaurant rating on Yelp (0-5)</br>
-Yelp_number_of_reviews:	        number of reviews received on Yelp</br>
-Yelp_review: 	                customer’s comments on food experience on Yelp</br>
-Zomato_rating: 	                restaurant rating on Zomato (0-5)</br>
-Zomato_number_of_reviews: 	    number of reviews received on Zomato</br>
-Zomato_review: 	                customer’s comments on food experience on Zomato</br>
-Tripadvisor_rating: 	        ratings from Tripadvisor</br>
-Tripadvisor_number_of_reviews: 	number of reviews received on Tripadvisor</br>
-Tripadvisor_review: 	        customer’s comments on food experience onTripadvisor</br>
-Dazhongdianping_rating: 	    restaurant rating on Dazhongdianping</br>
+Name: 	                        name of the restaurant<br>
+Address: 	                    street address<br>
+Area: 	                        neighbourhood<br>
+Phone: 	                        contact number<br>
+Price : 	                    price range $-$$$$<br>
+Category:  	                    Italian,American...<br>
+Yelp_rating: 	                restaurant rating on Yelp (0-5)<br>
+Yelp_number_of_reviews:	        number of reviews received on Yelp<br>
+Yelp_review: 	                customer’s comments on food experience on Yelp<br>
+Zomato_rating: 	                restaurant rating on Zomato (0-5)<br>
+Zomato_number_of_reviews: 	    number of reviews received on Zomato<br>
+Zomato_review: 	                customer’s comments on food experience on Zomato<br>
+Tripadvisor_rating: 	        ratings from Tripadvisor<br>
+Tripadvisor_number_of_reviews: 	number of reviews received on Tripadvisor<br>
+Tripadvisor_review: 	        customer’s comments on food experience onTripadvisor<br>
+Dazhongdianping_rating: 	    restaurant rating on Dazhongdianping<br>
 
 * Correlations:<br>
     I will compare the ratings from different websites on the following parameters:<br>
