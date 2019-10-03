@@ -1,6 +1,6 @@
 I presented the following to my colleagues at Heinz:
-![<img src="./images/StoryBoard1.PNG" width="50%">](https://ananya-ghosh.github.io/Telling-stories-with-Data/images/StoryBoard1.PNG)
-![<img src="./images/StoryBoard2.PNG" width="50%">](https://ananya-ghosh.github.io/Telling-stories-with-Data/images/StoryBoard2.PNG)
+![<img src="./images/StoryBoard1.jpeg" width="50%">](https://ananya-ghosh.github.io/Telling-stories-with-Data/images/StoryBoard1.jpeg)
+![<img src="./images/StoryBoard2.jpeg" width="50%">](https://ananya-ghosh.github.io/Telling-stories-with-Data/images/StoryBoard2.jpeg)
  
 
 ### a. the target audience you hope to reach with your story; 
@@ -18,7 +18,8 @@ The story you are trying to tell seems very relatable to me! I am sure you got t
 I see that you have only described about Chinese cuisine in your 2nd card. There is no background mentioned about Indian food and American food. This makes the story line look a bit inconsistent. Also, I felt that I couldn't understand much from the line graph you've used. Although the headings and title aids in understanding the point but maybe you could try something else! Also, I hope you are planning to provide 3 separate line graph for each cuisine - Chinese, Indian, American?
 
 Ananya: Oh yes! <br>
-/----------------------------------
+
+----------------------------------
 Person 1: Okay good!
 
 Person 2 (Indian):
@@ -30,7 +31,8 @@ Ananya: My classmates at Heinz
 Person 2 (Indian): Oh! Then good that you chose a simple topic. Other than that, I felt that you can include a chart to describe the demographic of Pittsburgh. It's not a necessity but might be helpful. I think you should put more charts showing comparison based on other parameters. I think you can also try putting a map highlighting locations of Chinese, Indian and American restaurants and make some conclusions based on that! I hope this was helpful!
 
 Ananya: Sure! Thanks for your time!<br>
-/-----------------------------------
+
+-----------------------------------
 Person 3: Hey! I didn't know such problems existed! I don't use these apps much so I guess I won't know!
 I think you have a strong story already. The framing for your story depends on what elements you would want to highlight to the audience, such as is it the location of the restaurants, or average ratings, or style of food. You may also want to do some work to determine what the number of reviews says about a restaurant. These are all different approaches to your question, and deciding what kind of data you want to showcase (location, review raiting, etc) you can use different visualization styles to do so. In short, I feel you can add charts where you do comparisons based on other metrics.
 By the way, I felt that the memes that you included in the beginning didn't make much sense at first. Try to add more context.
