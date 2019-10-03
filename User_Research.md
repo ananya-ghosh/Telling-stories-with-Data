@@ -33,7 +33,7 @@ Person 2 (Indian): Oh! Then good that you chose a simple topic. Other than that,
 Ananya: Sure! Thanks for your time!<br>
 
 -----------------------------------
-Person 3: Hey! I didn't know such problems existed! I don't use these apps much so I guess I won't know!
+Person 3 (American): Hey! I didn't know such problems existed! I don't use these apps much so I guess I won't know!
 I think you have a strong story already. The framing for your story depends on what elements you would want to highlight to the audience, such as is it the location of the restaurants, or average ratings, or style of food. You may also want to do some work to determine what the number of reviews says about a restaurant. These are all different approaches to your question, and deciding what kind of data you want to showcase (location, review raiting, etc) you can use different visualization styles to do so. In short, I feel you can add charts where you do comparisons based on other metrics.
 By the way, I felt that the memes that you included in the beginning didn't make much sense at first. Try to add more context.
 
