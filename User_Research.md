@@ -1,6 +1,7 @@
 I presented the following to my colleagues at Heinz:
 ![<img src="./images/StoryBoard1.PNG" width="50%">](https://ananya-ghosh.github.io/Telling-stories-with-Data/images/StoryBoard1.PNG)
- 
+ ![<img src="./images/image_1.jpeg" width="50%">](https://ananya-ghosh.github.io/Telling-stories-with-Data/images/image_1.jpeg)
+
 
 a. the target audience you hope to reach with your story; 
 b. your approach to identifying representative individuals to interview; 
