@@ -1,6 +1,6 @@
 I presented the following to my colleagues at Heinz:
-![<img src="./images/StoryBoard1.jpeg" width="50%">](https://ananya-ghosh.github.io/Telling-stories-with-Data/images/StoryBoard1.jpeg)
-![<img src="./images/StoryBoard2.jpeg" width="50%">](https://ananya-ghosh.github.io/Telling-stories-with-Data/images/StoryBoard2.jpeg)
+![<img src="./images/StoryBoard1.jpeg" width="100%">](https://ananya-ghosh.github.io/Telling-stories-with-Data/images/StoryBoard1.jpeg)
+![<img src="./images/StoryBoard2.jpeg" width="100%">](https://ananya-ghosh.github.io/Telling-stories-with-Data/images/StoryBoard2.jpeg)
  
 
 ### a. the target audience you hope to reach with your story; 
