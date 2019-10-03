@@ -1,15 +1,15 @@
-I presented the following to my colleagues at Heinz:
+I presented the following to my colleagues at Heinz:<br><br>
 ![<img src="./images/StoryBoard1.jpeg" width="100%">](https://ananya-ghosh.github.io/Telling-stories-with-Data/images/StoryBoard1.jpeg)
 ![<img src="./images/StoryBoard2.jpeg" width="100%">](https://ananya-ghosh.github.io/Telling-stories-with-Data/images/StoryBoard2.jpeg)
  
 
-### a. the target audience you hope to reach with your story; 
+### a. the target audience I hope to reach with my story; 
 Target aurdience is my classmates in Telling Stories with Data class. My class has a lot of people who belong to US or countries other than India and China. Through my story I want to inform them about the difference in tastes and preferences from people around the world.
 
-### b. your approach to identifying representative individuals to interview; 
+### b. my approach to identifying representative individuals to interview; 
 I selected three individuals from different countries - China, India and America. Since my study is on the student from these three places, it made sense to ask them to review my story board.
 
-### c. your interview script; 
+### c. interview script; 
 Ananya: Hello! Here is a flowchart I made. Could you please tell me what you think is the idea behind this?
 
 Person 1 (Chinese):
@@ -40,12 +40,12 @@ By the way, I felt that the memes that you included in the beginning didn't make
 Ananya: Okay! Thank you so much!
 
 
-### d. the findings from your interviews
+### d. the findings from interviews
 1. More charts are needed
 2. Some points about history of Indian and American food can be better
 3. Add context to memes
 
-### e. changes you implemented to your sketches, storyboards and wireframes to address the issues identified.
+### e. changes I implemented to my sketches, storyboards and wireframes to address the issues identified.
 1. Added more content in the 2nd card
 2. Added 2 more charts to show Variation in Rating for Indian and American Cuisine
 3. Added a map showing locations of Chinese, Indian and American restaurants
