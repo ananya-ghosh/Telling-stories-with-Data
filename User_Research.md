@@ -17,18 +17,18 @@ Hey! I am so glad to see that you mingled with Chinese people and tried our cuis
 The story you are trying to tell seems very relatable to me! I am sure you got this idea from the Chinese friends I see in this picture.
 I see that you have only described about Chinese cuisine in your 2nd card. There is no background mentioned about Indian food and American food. This makes the story line look a bit inconsistent. Also, I felt that I couldn't understand much from the line graph you've used. Although the headings and title aids in understanding the point but maybe you could try something else! Also, I hope you are planning to provide 3 separate line graph for each cuisine - Chinese, Indian, American?
 
-Ananya: Oh yes! <br>
+Ananya: Oh yes!
+
+Person 1: Okay good!<br>
 
 ----------------------------------
-Person 1: Okay good!
-
 Person 2 (Indian):
 Hey! This topic looks very good! I hope you have researched these four sites well enough to recommend me good places!
 The topic is good. It's simple and it's something people from different background can relate to. Whom are you presenting this to?
 
 Ananya: My classmates at Heinz
 
-Person 2 (Indian): Oh! Then good that you chose a simple topic. Other than that, I felt that you can include a chart to describe the demographic of Pittsburgh. It's not a necessity but might be helpful. I think you should put more charts showing comparison based on other parameters. I think you can also try putting a map highlighting locations of Chinese, Indian and American restaurants and make some conclusions based on that! I hope this was helpful!
+Person 2 (Indian): Oh! Then good that you chose a simple topic. Other than that, I felt that you can include a chart to describe the demographic of Pittsburgh. It's not a necessity but might be helpful. I think you should put more charts showing comparison based on other parameters. I think you can also try putting a map highlighting locations of Chinese, Indian and American restaurants and make some conclusions based on that! I hope this helps!
 
 Ananya: Sure! Thanks for your time!<br>
 
