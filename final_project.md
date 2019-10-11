@@ -52,6 +52,7 @@ There was a critique session in class, during which I had to take opinion from m
 Choosing the best chart to depict the rating variance was quite difficult. As a student of statistics, boxplots was the first choice in mind but I wanted to explore more so that I could target people who does not have statistical background. But the more I searched for different graph types, the more I was convinced that boxplots were the best way to show variation. This goes back to one of the classes where Chris told us that there are untold conventions that you need to follow (like red represents danger, pink is for women, blue for men etc) And I felt that variance was best represented by boxplot.
 
 Here is my final data story! 
+<https://carnegiemellon.shorthandstories.com/trustOrNotToTrust/index.html>
 <script src="https://embed.shorthand.com/embed_6.js"></script>
 <div data-shorthand-embed="carnegiemellon.shorthandstories.com/trustOrNotToTrust/"><h1>To Trust or Not to Trust Restaurant Ratings</h1></div>
 
