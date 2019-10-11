@@ -22,7 +22,8 @@ Data collection was the most challenging part of the project. Since none of the 
 I got four tables after collecting all the necessary data from all the four websites. I merged those four tables based on the following logic.
  
 ###### merging logic picture
-
+WhatsApp Image 2019-10-11 at 10.47.41.jpeg
+![<img src="./images/WhatsApp Image 2019-10-11 at 10.47.41.jpeg" width="100%">](https://ananya-ghosh.github.io/Telling-stories-with-Data/images/WhatsApp Image 2019-10-11 at 10.47.41.jpeg)
 
 
 My main approach to the project was building a merged data table and run some analysis on the data collected.
