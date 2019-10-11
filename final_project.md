@@ -53,8 +53,6 @@ Choosing the best chart to depict the rating variance was quite difficult. As a 
 
 Here is my final data story! 
 <https://carnegiemellon.shorthandstories.com/trustOrNotToTrust/index.html>
-<script src="https://embed.shorthand.com/embed_6.js"></script>
-<div data-shorthand-embed="carnegiemellon.shorthandstories.com/trustOrNotToTrust/"><h1>To Trust or Not to Trust Restaurant Ratings</h1></div>
 
 I learnt a lot of things from this project.
 1. Every time I thought of doing something, I always made sure that I took my audience's perspective into consideration. For example, my decision to do a project on food was something that I took solely based on my audience's interest. And it was during my user research that I realised that choosing a topic which everyone can connect to is the best way to keep everyone engaged.
