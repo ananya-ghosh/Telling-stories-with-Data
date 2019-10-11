@@ -21,7 +21,7 @@ Data collection was the most challenging part of the project. Since none of the 
 
 I got four tables after collecting all the necessary data from all the four websites. I merged those four tables based on the following logic.
  
-###### merging logic picture
+
 WhatsApp Image 2019-10-11 at 10.47.41.jpeg
 ![<img src="./images/WhatsApp Image 2019-10-11 at 10.47.41.jpeg" width="100%">](https://ananya-ghosh.github.io/Telling-stories-with-Data/images/WhatsApp Image 2019-10-11 at 10.47.41.jpeg)
 
@@ -52,6 +52,8 @@ There was a critique session in class, during which I had to take opinion from m
 Choosing the best chart to depict the rating variance was quite difficult. As a student of statistics, boxplots was the first choice in mind but I wanted to explore more so that I could target people who does not have statistical background. But the more I searched for different graph types, the more I was convinced that boxplots were the best way to show variation. This goes back to one of the classes where Chris told us that there are untold conventions that you need to follow (like red represents danger, pink is for women, blue for men etc) And I felt that variance was best represented by boxplot.
 
 Here is my final data story! 
+<script src="https://embed.shorthand.com/embed_6.js"></script>
+<div data-shorthand-embed="carnegiemellon.shorthandstories.com/trustOrNotToTrust/"><h1>To Trust or Not to Trust Restaurant Ratings</h1></div>
 
 I learnt a lot of things from this project.
 1. Every time I thought of doing something, I always made sure that I took my audience's perspective into consideration. For example, my decision to do a project on food was something that I took solely based on my audience's interest. And it was during my user research that I realised that choosing a topic which everyone can connect to is the best way to keep everyone engaged.
