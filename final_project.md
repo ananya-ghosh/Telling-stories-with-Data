@@ -63,4 +63,15 @@ I learnt a lot of things from this project.
 
 4. I feel that everything that I learnt in this class is applicable to other works of life. I worked as a software developer for three years. My job was client facing and I had to deal with a lot of UI/UX work. I could corelate a lot of things I learned in this class with the learnings I had from my job.
 
+Here are few of the data sources: <br>
+I used Beautiful Soup library in Python to scrape data from all the four websites.<br>
+[Yelp Link: ](https://www.yelp.com/search?find_desc=Restaurants&find_loc=Pittsburgh%2C%20PA&start=0)<br>
+[Zomato Link: ](https://www.zomato.com/pittsburgh)<br>
+[TripAdvisor Link: ](https://www.tripadvisor.com/Restaurants-g53449-Pittsburgh_Pennsylvania.html#EATERY_OVERVIEW_BOX)<br>
+[Dazhondingpian Link: ](http://www.dianping.com/pittsburgh/ch0)<br>
 
+Excel sheet containing all the scraped data can be found [here](https://ananya-ghosh.github.io/Telling-stories-with-Data/ScrapedData/ScrapedData.xlsx)
+
+
+NOTE: This project is strictly for academic purpose
+All the pictures on shorthand are taken from google
