@@ -2,7 +2,7 @@
 My Portfolio
 
 # About Me
-Hello! I am Ananya Ghosh from India. I am a graduate student at Carnegie Mellon University, studying Information Systems Management with concentration on Business Intelligence and Data Analytics. I have worked as a software developer at SAP Labs for almost 3 years. My work was primarily in the e-commerce domain. My career aspirations are to work as a Data Analyst or Data Engineer in a company that addresses social issues. 
+Hello! I am Ananya Ghosh from India. I am a graduate student at Carnegie Mellon University, studying Information Systems Management with concentration on Business Intelligence and Data Analytics. I have worked as a software developer at SAP Labs for almost 3 years. My work was primarily in the e-commerce domain. My career aspirations are to work as a Product Manager in a company that addresses social issues. 
 
 My hobbies include travelling and discovering my hidden potential. I love to meet new people and listen to their stories.
 
